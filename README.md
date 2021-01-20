@@ -18,3 +18,10 @@ console.log("Modified nums = [" + nums + "]");
 console.log("-------------------------------------------");
 
 ```
+Steps to solve this problem
+
+```text
+
+test
+
+```
